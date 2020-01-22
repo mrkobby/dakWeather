@@ -34,7 +34,7 @@ Icon toggleWeatherIcon(int condition) {
   }
 }
 
-const String apiKey = '5c40613a07ea6851dd63a2ee3ab8b314';
+const String apiKey = '(please enter your API key here)';
 const String openWeatherMapURL =
     'https://api.openweathermap.org/data/2.5/weather';
 
